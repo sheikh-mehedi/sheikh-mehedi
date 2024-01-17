@@ -72,7 +72,7 @@ I am also very good at ASP.NET Core with javascript/jQuery/Angular. And I am goo
 <p align="center">Here some of my <br>
 most used s-s-sociaw things</p>
 
-<p align="center"> <a href=https://www.facebook.com/mdmehedihasan.hridoy.71" target="_blank"><img src="https://img.shields.io/badge/Mehedi hasan-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/munshi-faysal-ahmed-195293200/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Munshi Faysal-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="center"> <a href=https://www.facebook.com/mdmehedihasan.hridoy.71/" target="_blank"><img src="https://img.shields.io/badge/Mehedi hasan-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.linkedin.com/in/munshi-faysal-ahmed-195293200/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Munshi Faysal-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 </div>
 <br>
 <div>
