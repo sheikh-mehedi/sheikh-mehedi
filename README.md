@@ -14,7 +14,7 @@
 <div>
 <h2 align="center"> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  </h2>
 <li>
- <b>Name:</b> <a href='#' target=_blank>Munshi Faysal Ahmedr</a></li>
+ <b>Name:</b> <a href='#' target=_blank>MD Mehedi Hasan</a></li>
 
 <li>
 <b>Loves:</b> anime, osu, rhythm games
@@ -23,10 +23,10 @@
 <b>Gender:</b>Male 🏳️‍⚧️
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Software Development, Explore New
+<b>Hobbys:</b> Software Development, Explore New
 </li>
 <li>
-<b>Working @:</b> Software Engineer at BRAC Saajan Money Transfer - a Subsidory of BRAC Bank
+<b>Working @:</b> Software Engineer at FLEX InfoTech Limited
 </li>
 <br><br><br>
 </div>
@@ -35,7 +35,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munshi-Faysal&layout=Demo&count_private=true" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-mehedi&layout=Demo&count_private=true" align="right">
   </div>
 </div>
 <div>
