@@ -82,7 +82,7 @@ most used s-s-sociaw things</p>
 </div>
     <p align="center" >  
   <a href="https://github.com/sheikh-mehedi"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Munshi-Faysal&&show_icons=true&theme=radical&count_private=true"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=sheikh-mehedi&&show_icons=true&theme=radical&count_private=true"/>
   </a>
   </p>
     
